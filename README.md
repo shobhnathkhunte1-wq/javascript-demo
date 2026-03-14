@@ -1,3 +1,3 @@
 # javascript-demo
 This is my first Git Repositories
-changed
+<strong>changed</strong>
